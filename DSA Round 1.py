@@ -95,4 +95,3 @@ for num in arr:
         print(1, end=" ")
 
 
-# cause i was not getting the logic
